@@ -1,2 +1,1 @@
-# acozzens123.github.io
-History 390
+This repository contains nine total commits, the first of which consisted of basic html index and a readme file which displayed the text "hello world." THe successive commits reveal the course of development of my twine narrative: a text-based interactive story designed in the fashion of Choose Your Own Adventure books. In this narrative, readers assume the role of King Henry VIII in matters of family and marriage, and are prompted to make (or break) matches for themselves to produce a proper heir to the English throne, and leave the kingdom of England poised for future success. The final commit in this main repository updates that initial readme file to reflect the overall content.
